@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+
+#table-2{
+    margin-top: 40px
+}
